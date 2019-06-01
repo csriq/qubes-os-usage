@@ -13,3 +13,6 @@ In anotherVM, download the config file:
 
 In dom0, copy the config file from anotherVM to dom0:
 * `qvm-run --pass-io anotherVM 'cat /path/to/redshift.conf' > ~/.config/redshift.conf`
+
+Test it and if desired make some changes to redshift.conf:
+* `redshift`
