@@ -10,21 +10,17 @@ You can find them in:
 Commonly used [Qubes OS](https://www.qubes-os.org/) shortcuts:
 
 * `Alt+F3` : open application finder
-
 * `Ctrl+Alt+Del` or `Ctrl+Alt+L` : lock the screen
-
 * `Print` : print whole screen
-
 * `Alt+Print` : print current window
-
 * `Ctrl+Alt+Left/Right` : display the left/right workspace
-
 * `Ctrl+Alt+Home/End` : move current window to left/right workspace
-
 * `Ctrl+Alt+D` : Show desktop
 
 Others:
 * `Fn+Bightness +/-` : Change Brightness Up/Down
+* `Alt+Space+X` : (un)maximize current window 
+* `Alt+Space+N` : minimize current window
 
 
 ## Custom application shorcuts
