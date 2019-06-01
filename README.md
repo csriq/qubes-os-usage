@@ -6,4 +6,8 @@ Commonly used [Qubes OS](https://www.qubes-os.org/) shortcuts:
 
 * `Ctrl+Alt+Del` or `Ctrl+Alt+L` : lock the screen
 
+* `Print` : print whole screen
+
+* `Alt+Print` : print current window
+
 * `Ctrl+Alt+Left/Right` : display the left/right workspace
