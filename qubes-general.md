@@ -1,6 +1,6 @@
 # Qubes OS General
 
-## Avoid Blue light
+## Avoid Blue Light
 
 ### Redshift
 
