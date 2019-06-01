@@ -16,3 +16,7 @@ In dom0, copy the config file from anotherVM to dom0:
 
 Test it and if desired make some changes to redshift.conf:
 * `redshift`
+
+Add it as a startup application:
+* `Menu -> System Tools -> Session and Startup -> Application Autostart` or `Alt+F3+startup+2xEnter -> Application Autostart`
+* Click Add, enter 3x `redshift` and press OK
