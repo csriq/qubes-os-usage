@@ -23,6 +23,10 @@ Commonly used [Qubes OS](https://www.qubes-os.org/) shortcuts:
 
 * `Ctrl+Alt+D` : Show desktop
 
+Others:
+* `Fn+Bightness +/-` : Change Brightness Up/Down
+
+
 ## Custom application shorcuts
 
 To add a custom application shorcut:
