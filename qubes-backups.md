@@ -12,3 +12,6 @@ Advantages:
 Disadvantages:
 * no incremental backups
 * cannot backup only specific folders/files in the vm
+
+## Incremental Backups
+* [POC](https://github.com/v6ak/qubes-incremental-backup-poc) - Proof of Concept for v3 (not v4)
