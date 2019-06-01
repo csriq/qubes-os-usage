@@ -4,7 +4,7 @@
 
 You can find them in:
 * Menu -> System Tools -> Keyboard -> Application Shorcuts
-* Menu -> System Tools -> System Manager -> Window Manager -> Keyboard
+* Menu -> System Tools -> Window Manager -> Keyboard
 
 
 Commonly used [Qubes OS](https://www.qubes-os.org/) shortcuts:
