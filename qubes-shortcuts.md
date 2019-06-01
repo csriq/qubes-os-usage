@@ -3,7 +3,7 @@
 ## Standard shorcuts
 
 You can find them in:
-* Menu -> System Tools -> System Manager -> Keyboard -> Applications
+* Menu -> System Tools -> Keyboard -> Application Shorcuts
 * Menu -> System Tools -> System Manager -> Window Manager -> Keyboard
 
 
@@ -22,3 +22,16 @@ Commonly used [Qubes OS](https://www.qubes-os.org/) shortcuts:
 * `Ctrl+Alt+Home/End` : move current window to left/right workspace
 
 * `Ctrl+Alt+D` : Show desktop
+
+## Custom application shorcuts
+
+To add a custom application shorcut:
+* Click `Menu -> System Tools -> Keyboard -> Application Shorcuts`
+* Click `Add`
+* Enter the desired application `Command` and click OK
+* Enter the desired shorcut with the keyboard
+
+Application commands:
+* `amixer set Master 5%+` : Volume Up
+* `amixer set Master 5%-` : Volume Down
+* `amixer set Master toggle` : Volume Mute/Unmute
