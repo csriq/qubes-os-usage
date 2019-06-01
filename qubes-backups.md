@@ -7,7 +7,7 @@ Please look at the [official documentation](https://www.qubes-os.org/doc/backup-
 Advantages:
 * back up and restore your whole system
 * migrate between two physical machines
-* restory by any GNU/Linux system
+* restore by any GNU/Linux system
 
 Disadvantages:
 * no incremental backups
