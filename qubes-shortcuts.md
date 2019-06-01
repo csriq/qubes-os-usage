@@ -39,3 +39,13 @@ Application commands:
 * `amixer set Master 5%+` : Volume Up
 * `amixer set Master 5%-` : Volume Down
 * `amixer set Master toggle` : Volume Mute/Unmute
+
+## Application Finder shorcuts
+Sometimes the quickest way to start an application is to use the Application Finder and enter the app phrase.
+* `Alt+F3` + `vmName: applicationName` + `2x Enter`
+
+Common app phrases:
+* `vmName: ter` - starts the Terminal
+* `vmName: fire` - starts Firefox
+
+If you use often the application finder shortcuts, you might like to rename your VM to a few letters. For example from `personal` to `p`. Then you can start Firefox just with phrase `p: fire`.
