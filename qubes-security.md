@@ -4,4 +4,4 @@
 
 Deny pasting into your vault:
 * [@dom0 ~] `sudo nano /etc/qubes-rpc/policy/qubes.ClipboardPaste`
-* [@dom0 ~] add the line: `$anyvm vault deny`
+* [@dom0 ~] add the line: `$anyvm vault deny` above the line `$anyvm $anyvm ask`
