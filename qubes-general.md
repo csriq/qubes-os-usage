@@ -20,3 +20,7 @@ Test it and if desired make some changes to redshift.conf:
 Add it as a startup application:
 * `Menu -> System Tools -> Session and Startup -> Application Autostart` or `Alt+F3+startup+2xEnter -> Application Autostart`
 * Click Add, enter 3x `redshift` and press OK
+
+## Screen Sharing
+
+Currently [possible](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18236.html), but not without sacrificing security. Read the latest ideas [the mailinglist](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18929.html).
