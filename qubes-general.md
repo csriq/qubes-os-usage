@@ -27,4 +27,4 @@ Add it as a startup application:
 
 ## Screen Sharing
 
-Currently [possible](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18236.html), but not without sacrificing security. Read the latest ideas [the mailinglist](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18929.html).
+Currently [possible](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18236.html), but not without sacrificing security. Read the latest ideas in [the mailinglist](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18929.html).
