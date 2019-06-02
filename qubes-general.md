@@ -29,6 +29,12 @@ Add it as a startup application:
 
 Currently [possible](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18236.html), but not without sacrificing security. Read the latest ideas in [the mailinglist](https://www.mail-archive.com/qubes-users@googlegroups.com/msg18929.html).
 
+## UI
+
+### Black colored qubes
+do not have easily readable window title and buttons. [Cannot be changed currently](https://www.mail-archive.com/qubes-users@googlegroups.com/msg26171.html). Workarounds:
+* Change color to another, e.g. grey.
+
 ## Scripts
 
 * [Qubes-scripts by tasket](https://github.com/tasket/Qubes-scripts).
