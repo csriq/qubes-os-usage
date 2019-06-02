@@ -14,4 +14,5 @@ Disadvantages:
 * cannot backup only specific folders/files in the vm
 
 ## Incremental Backups
-* [POC](https://github.com/v6ak/qubes-incremental-backup-poc) - Proof of Concept for v3 (not v4)
+* [Sparsebak](https://github.com/tasket/sparsebak) - incremental backup management for logical volumes. In alpha/testing stage.
+* [POC](https://github.com/v6ak/qubes-incremental-backup-poc) - Incremental Backup Proof of Concept for v3 (not v4)
