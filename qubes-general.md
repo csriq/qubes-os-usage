@@ -1,10 +1,10 @@
 # Qubes OS General
 
-## Avoid Blue Light
-
-### VPN
+## VPN
 * [How To make a VPN Gateway in Qubes](https://www.qubes-os.org/doc/vpn/) (official docs)
 * [Qubes-vpn-support](https://github.com/tasket/Qubes-vpn-support)
+
+## Avoid Blue Light
 
 ### Redshift
 
